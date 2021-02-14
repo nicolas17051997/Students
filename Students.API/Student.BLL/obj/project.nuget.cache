@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QO++7Zo8GjG679RdAFTKndSKCFqlZ4UyhbMeqzddyAiOGCAKEHPJUxaQvmBtWQdRB0aLgwNZBVBMlkvK14UTwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Turing_Machine\\Source\\Repos\\Students\\Students.API\\Student.BLL\\Student.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Turing_Machine\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

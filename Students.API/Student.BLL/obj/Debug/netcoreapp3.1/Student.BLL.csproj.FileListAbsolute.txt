@@ -1,0 +1,12 @@
+D:\Students.API\Student.BLL\bin\Debug\netcoreapp3.1\Student.BLL.deps.json
+D:\Students.API\Student.BLL\bin\Debug\netcoreapp3.1\Student.BLL.dll
+D:\Students.API\Student.BLL\bin\Debug\netcoreapp3.1\Student.BLL.pdb
+D:\Students.API\Student.BLL\bin\Debug\netcoreapp3.1\Student.DAL.dll
+D:\Students.API\Student.BLL\bin\Debug\netcoreapp3.1\Student.DAL.pdb
+D:\Students.API\Student.BLL\obj\Debug\netcoreapp3.1\Student.BLL.csprojAssemblyReference.cache
+D:\Students.API\Student.BLL\obj\Debug\netcoreapp3.1\Student.BLL.AssemblyInfoInputs.cache
+D:\Students.API\Student.BLL\obj\Debug\netcoreapp3.1\Student.BLL.AssemblyInfo.cs
+D:\Students.API\Student.BLL\obj\Debug\netcoreapp3.1\Student.BLL.csproj.CoreCompileInputs.cache
+D:\Students.API\Student.BLL\obj\Debug\netcoreapp3.1\Student.BLL.csproj.CopyComplete
+D:\Students.API\Student.BLL\obj\Debug\netcoreapp3.1\Student.BLL.dll
+D:\Students.API\Student.BLL\obj\Debug\netcoreapp3.1\Student.BLL.pdb

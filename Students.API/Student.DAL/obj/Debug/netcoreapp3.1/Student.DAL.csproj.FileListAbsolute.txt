@@ -1,0 +1,9 @@
+D:\Students.API\Student.DAL\bin\Debug\netcoreapp3.1\Student.DAL.deps.json
+D:\Students.API\Student.DAL\bin\Debug\netcoreapp3.1\Student.DAL.dll
+D:\Students.API\Student.DAL\bin\Debug\netcoreapp3.1\Student.DAL.pdb
+D:\Students.API\Student.DAL\obj\Debug\netcoreapp3.1\Student.DAL.csprojAssemblyReference.cache
+D:\Students.API\Student.DAL\obj\Debug\netcoreapp3.1\Student.DAL.AssemblyInfoInputs.cache
+D:\Students.API\Student.DAL\obj\Debug\netcoreapp3.1\Student.DAL.AssemblyInfo.cs
+D:\Students.API\Student.DAL\obj\Debug\netcoreapp3.1\Student.DAL.csproj.CoreCompileInputs.cache
+D:\Students.API\Student.DAL\obj\Debug\netcoreapp3.1\Student.DAL.dll
+D:\Students.API\Student.DAL\obj\Debug\netcoreapp3.1\Student.DAL.pdb
